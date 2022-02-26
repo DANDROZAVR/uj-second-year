@@ -1,0 +1,3 @@
+[submodule "tftp"]
+	path = tftp
+	url = https://github.com/DANDROZAVR/tftp
